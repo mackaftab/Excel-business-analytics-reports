@@ -10,11 +10,11 @@ To develop an interactive business intelligence dashboard, Sales and Finance Ana
 
 # Sales Analysis
 Objectives
-Top 10 Products with Sales Increase: Identify which products had the biggest increase in sales from 2020 to 2021.
-Division Sales Report: Create a report showing total revenue in 2020 and 2021 and how much sales grew.
-Top and Bottom 5 Sold Products: Identify the top 5 and bottom 5 products sold by quantity.
-New Products in 2021: List new products Atliq started selling in 2021.
-Top 5 Sales Countries in 2021: Identify the five countries with the highest sales in 2021.
++ Top 10 Products with Sales Increase: Identify which products had the biggest increase in sales from 2020 to 2021.
++ Division Sales Report: Create a report showing total revenue in 2020 and 2021 and how much sales grew.
++ Top and Bottom 5 Sold Products: Identify the top 5 and bottom 5 products sold by quantity.
++ New Products in 2021: List new products Atliq started selling in 2021.
++ Top 5 Sales Countries in 2021: Identify the five countries with the highest sales in 2021.
 
 # Sales Analysis Reports
 1. Top 10 Products with Sales Increase
@@ -45,9 +45,30 @@ Top 5 Sales Countries in 2021: Identify the five countries with the highest sale
 
 # Financial Analysis
 Objectives
-Customer Net Sales Performance Report: Overview of revenue generated from customers.
-Market Performance vs. Sales Targets Comparison: Analysis of sales efforts against goals and market conditions.
-Yearly Profit and Loss (P&L) Report: Financial performance breakdown for each fiscal year.
-Quarterly Profit and Loss (P&L) Comparison: Financial performance trends throughout the year.
-Market-Specific Profit and Loss (P&L) Report: Performance breakdown for each market.
-Quarterly Gross Margin Percentage (GM%) by Location: Profitability view by geographic area.
++ Customer Net Sales Performance Report: Overview of revenue generated from customers.
++ Market Performance vs. Sales Targets Comparison: Analysis of sales efforts against goals and market conditions.
++ Yearly Profit and Loss (P&L) Report: Financial performance breakdown for each fiscal year.
++ Quarterly Profit and Loss (P&L) Comparison: Financial performance trends throughout the year.
++ Market-Specific Profit and Loss (P&L) Report: Performance breakdown for each market.
++ Quarterly Gross Margin Percentage (GM%) by Location: Profitability view by geographic area.
+
+Financial Analysis Reports
++ Customer Net Sales Performance Report
+
+     Insights: Revenue increased from $87.5 million in 2019 to $598.9 million in 2021 (304.5% growth).
+
++ Market Performance vs. Sales Targets Comparison
+
+     Insights: Some markets exceeded their sales targets, while others fell short, providing insights for future strategies.
++ Yearly Profit and Loss (P&L) Report
+
+     Insights: Net Sales surged by 204.5% over three years, with efficient cost management maintaining a strong gross margin.
++ Quarterly Profit and Loss (P&L) Comparison
+
+     Insights: Significant sales growth in 2021 with stable profit margins despite increased costs.
+Market-Specific Profit and Loss (P&L) Report
+
+Insights: Japan and New Zealand showed the highest profit margins, while Germany had lower margins.
+Quarterly Gross Margin Percentage (GM%) by Location
+
+Insights: Variations in profit margins by region, aiding in performance assessments and strategic decisions.
