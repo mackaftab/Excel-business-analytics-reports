@@ -42,3 +42,12 @@ Top 5 Sales Countries in 2021: Identify the five countries with the highest sale
    Insights:
       India led with $161.3 million in sales.
       Strong sales also noted in the USA, South Korea, the UK, and Canada.
+
+# Financial Analysis
+Objectives
+Customer Net Sales Performance Report: Overview of revenue generated from customers.
+Market Performance vs. Sales Targets Comparison: Analysis of sales efforts against goals and market conditions.
+Yearly Profit and Loss (P&L) Report: Financial performance breakdown for each fiscal year.
+Quarterly Profit and Loss (P&L) Comparison: Financial performance trends throughout the year.
+Market-Specific Profit and Loss (P&L) Report: Performance breakdown for each market.
+Quarterly Gross Margin Percentage (GM%) by Location: Profitability view by geographic area.
